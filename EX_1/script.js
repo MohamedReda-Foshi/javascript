@@ -10,7 +10,7 @@ Resulte.innerText=parseInt(firstnumber.value)+parseInt(secondnumber.value);
 }
 
 
-function tow(){
+function two(){
 
     Resulte.innerText=parseInt(firstnumber.value)-parseInt(secondnumber.value);
     
